@@ -1,4 +1,4 @@
-<?php require('header.php'); ?>
+<?php require('../header.php'); ?>
 
 <section id="page">
     <h2>Portfolio</h2>
@@ -23,4 +23,4 @@
     </article>
 </section>
 
-<?php require('footer.php'); ?>
+<?php require('../footer.php'); ?>
